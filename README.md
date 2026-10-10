@@ -13,9 +13,7 @@ Build any list: PC specs, stream setup, favorite games, pets, contacts, a collec
 
 ## 📸 Preview
 
-> _Replace with your own screenshot_
-
-![Preview](./screenshots/preview.png)
+![PC Specs Widget Preview](./screenshots/preview.png)
 
 ---
 
