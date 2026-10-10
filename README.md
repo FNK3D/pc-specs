@@ -1,5 +1,6 @@
 # PC Specs — Widget Editor
 
+[![Latest Release](https://img.shields.io/github/v/release/FNK3D/pc-specs?style=for-the-badge&color=9146FF)](https://github.com/FNK3D/pc-specs/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg)](#)
 [![Vanilla JS](https://img.shields.io/badge/JS-vanilla-f7df1e.svg)](#)
