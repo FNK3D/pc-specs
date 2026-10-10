@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg)](#)
 [![Vanilla JS](https://img.shields.io/badge/JS-vanilla-f7df1e.svg)](#)
+[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-9146FF?style=for-the-badge&logoColor=121212)](https://fnk3d.github.io/pc-specs/)
 
 A universal info card widget builder — everything in a single HTML file, no server, no dependencies.
 
